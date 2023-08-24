@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "../../Downloads/Metaverso-d9f3c5d7266d3ffac19ce49aa286f25360239c1f/Metaverso-d9f3c5d7266d3ffac19ce49aa286f25360239c1f/src"
+		},
+		{
+			"name": "metaverse",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "../../Downloads/Metaverso-d9f3c5d7266d3ffac19ce49aa286f25360239c1f/Metaverso-d9f3c5d7266d3ffac19ce49aa286f25360239c1f/public"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Metaverso/static/css/main.e35f141f.css",
+    "main.js": "/Metaverso/static/js/main.d3e88805.js",
+    "static/js/988.1b1e5d9e.chunk.js": "/Metaverso/static/js/988.1b1e5d9e.chunk.js",
+    "index.html": "/Metaverso/index.html",
+    "main.e35f141f.css.map": "/Metaverso/static/css/main.e35f141f.css.map",
+    "main.d3e88805.js.map": "/Metaverso/static/js/main.d3e88805.js.map",
+    "988.1b1e5d9e.chunk.js.map": "/Metaverso/static/js/988.1b1e5d9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35f141f.css",
+    "static/js/main.d3e88805.js"
+  ]
+}
